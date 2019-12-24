@@ -36,7 +36,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::MetroSplashScreen.Properties.Resources.WIN_20190927_14_47_15_Pro;
+            this.pictureBox1.Image = global::MetroSplashScreen.Properties.Resources.giphy;
             this.pictureBox1.Location = new System.Drawing.Point(23, 80);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(744, 201);
